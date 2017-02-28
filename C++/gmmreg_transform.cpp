@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <assert.h>
 
 #include <vnl/algo/vnl_qr.h>
 
